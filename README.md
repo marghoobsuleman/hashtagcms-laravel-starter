@@ -36,7 +36,7 @@ The most powerful, fast, user-friendly and secured platform.
     - php artisan storage:link
     - php artisan serve --host=localhost --port=8001
     - http://localhost:8001/install
-- Open browser and navigate the APP_URL that you have mentioned in .env file. Default is http://127.0.0.1:8000
+- Open browser and navigate the APP_URL that you have mentioned in .env file
 - Do not forget to add .env in your .gitignore file, if you are uploading project somewhere.
 
 
